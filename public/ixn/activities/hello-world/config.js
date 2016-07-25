@@ -1,7 +1,7 @@
 define([], function(){      
     return {
-        "icon": "images/jb-icon.jpg",
-        "iconSmall": "images/jb-icon.jpg", 
+        "icon": "images/ICFOLSON800.png",
+        "iconSmall": "images/ICFOLSON800.png", 
         "key": "ICFO_ACTIVITY",
         "partnerApiObjectTypeId": "IXN.CustomActivity.REST",
         "lang": {
